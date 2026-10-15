@@ -2,7 +2,7 @@
 
 ![Linux](https://img.shields.io/badge/Platform-Linux-blue) ![Shell](https://img.shields.io/badge/Shell-Bash-green) ![Course](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-In%20Progress-lightgrey)
 
-Hands-on Linux lab from the Google Cybersecurity Professional Certificate. I used the command line to navigate a file system, read a user report, and review a server log, as a junior security analyst would. Written in my own words; not affiliated with Google or Coursera.
+Hands-on Linux lab from the Google Cybersecurity Professional Certificate. I used the command line to navigate a file system, read a user report, and review a server log.
 
 **Commands:** `pwd` `ls -l` `cd` `cat` `head`
 
